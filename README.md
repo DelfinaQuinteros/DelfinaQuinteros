@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DelfinaQuinteros&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -14,7 +14,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DelfinaQuinteros&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+</div>  
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true" /></div>
