@@ -9,7 +9,8 @@
 
 # 😂 Random things
 <div align="center">
-<img src="https://random-memer.herokuapp.com/" width="310px"/><img src="https://spotify-github-profile.vercel.app/api/view uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true">
+<img src="https://random-memer.herokuapp.com/" width="310px"/>
+<img src="https://spotify-github-profile.vercel.app/api/view uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true">
 </div> 
 <br/>  
 ---
