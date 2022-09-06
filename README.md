@@ -15,12 +15,6 @@
 
 <br/>  
 
-
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=DelfinaQuinteros&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>  
- 
-
-<img href="https://raw.githubusercontent.com/DelfinaQuinteros/DelfinaQuinteros/blob/output/snake.svg" alt="Snake animation" />
