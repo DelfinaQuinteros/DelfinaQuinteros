@@ -16,7 +16,7 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true" />
 
 <br/>  
-
+![Snake Gif](https://github.com/DelfinaQuinteros/DelfinaQuinteros/blob/output/github-contribution-grid-snake.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=DelfinaQuinteros&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>  
