@@ -77,9 +77,9 @@
 <br/>  
 
 <br/>  
-<div align="center">
-    ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true)  
-</div>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true" /></div>
+
 <br/>  
 
 <div align="center">
