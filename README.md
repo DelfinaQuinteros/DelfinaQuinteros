@@ -11,10 +11,13 @@
 <img src="https://random-memer.herokuapp.com/" width="310px"/>
 
 <br/>  
+<br/> 
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true" />
 
 <br/>  
 ---
+
 [![](https://visitcount.itsvg.in/api?id=DelfinaQuinteros&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>  
