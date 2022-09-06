@@ -1,5 +1,8 @@
 <div align="center">
-
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<br>
+<br>
+<br>
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DelfinaQuinteros&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DelfinaQuinteros&theme=dracula)
