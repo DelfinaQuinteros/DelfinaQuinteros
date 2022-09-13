@@ -52,6 +52,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DelfinaQuinteros&theme=dracula)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=DelfinaQuinteros&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DelfinaQuinteros&label=Profile%20Views&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 </div> 
