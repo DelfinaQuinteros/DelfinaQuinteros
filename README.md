@@ -44,8 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode"  width="40" height="40"/>&nbsp;
 </div>
 
-# 😂 Random things
-<img src="https://random-memer.herokuapp.com/" width="310px" height="400px"/> <img src="https://spotify-github-profile.vercel.app/api/view?uid=pepo28920006&cover_image=true&theme=default&bar_color_cover=true" width="310px" height="400px" />
   
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DelfinaQuinteros&theme=dracula)
