@@ -2,6 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 <br>
 
+<!--
 # 💻 Tech Stack:
 
 
@@ -43,6 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode"  width="40" height="40"/>&nbsp;
 </div>
+-->
 
   
 # 📊 GitHub Stats:
