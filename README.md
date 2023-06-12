@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/yyTPHle1YdQAAAAM/homer-brain.gif" align="center" style="width: 90%" />
+<img src="https://media.tenor.com/yyTPHle1YdQAAAAM/homer-brain.gif" align="center" style="width: 190%" />
 <br>
 
 <!--
